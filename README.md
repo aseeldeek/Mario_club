@@ -1,2 +1,2 @@
 # Mario_club
-this is a basic web designed using CSS and HTML only. 
+This is my first web designed using CSS and HTML only. 
